@@ -87,9 +87,12 @@ plt.show()
 
 ### OUTPUT:
 
+
 <img width="169" height="133" alt="image" src="https://github.com/user-attachments/assets/820a3876-15c6-44e9-8030-ecd51c75b47c" />
 
+
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/b84ce44a-e79a-4e46-bb83-d19c3786770d" />
+
 <img width="568" height="435" alt="image" src="https://github.com/user-attachments/assets/f6b73226-890f-4b29-a4ec-316d7d047d9c" />
 <img width="568" height="435" alt="image" src="https://github.com/user-attachments/assets/981a4519-649b-43b7-a153-e226ee86aadc" />
 <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/7c9ee6f6-31db-4c47-b6a6-505d6e66286f" />
